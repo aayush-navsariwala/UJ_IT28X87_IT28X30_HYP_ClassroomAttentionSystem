@@ -1,0 +1,6 @@
+# Ignore large/binary files
+data/processed/*
+data/npy/*
+*.npy
+*.jpg
+*.png
